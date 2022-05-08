@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to my Homepage
 
-You can use the [editor on GitHub](https://github.com/abelharvey/abel-nlp.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Personal Information
+- Abel Harvey
+- Postgraduate, NLP(Knowledge Graph Embedding, Relational Triple Extraction)
+- AI, Computer Science, Northeastern University, China
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
